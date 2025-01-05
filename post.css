@@ -1,0 +1,27 @@
+h1 {
+ font-size: 40px;
+ color: indigo;
+ text-decoration: underline;
+ border: solid 3px indigo;
+ border-radius: 15px;
+ font-family: courier ;
+ font-style: italic;
+ background-color: orange;
+}
+
+body {
+ text-align: center;
+}
+
+p {
+ font-family: monospace;
+}
+
+.post {
+ font-style: italic;
+ color: gray;
+}
+
+a {
+ color: orange;
+}
