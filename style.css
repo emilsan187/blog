@@ -1,0 +1,18 @@
+h1 {
+ font-size: 50px;
+ color: indigo;
+ 
+ text-decoration: underline;
+ border: solid 3px indigo;
+ border-radius: 15px;
+ font-family: courier ;
+ font-style: italic;
+ background-color: orange;
+}
+
+a {
+color: orange;
+ }
+body {
+  text-align: center;
+}
